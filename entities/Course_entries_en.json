@@ -1,0 +1,69 @@
+[
+  {
+    "value": "IOT",
+    "synonyms": [
+      "IOT",
+      "Internet of things",
+      "raspberry pi",
+      "Node ncu",
+      "Arduino"
+    ]
+  },
+  {
+    "value": "ML",
+    "synonyms": [
+      "ML",
+      "machine learning",
+      "AI",
+      "artificial intelligence",
+      "automate",
+      "deep learning",
+      "computer vision",
+      "object detection"
+    ]
+  },
+  {
+    "value": "networking",
+    "synonyms": [
+      "networking",
+      "cyber security"
+    ]
+  },
+  {
+    "value": "BlockChain",
+    "synonyms": [
+      "BlockChain"
+    ]
+  },
+  {
+    "value": "bigdata",
+    "synonyms": [
+      "bigdata"
+    ]
+  },
+  {
+    "value": "cloud computing",
+    "synonyms": [
+      "cloud computing",
+      "AWS",
+      "Amazon web services"
+    ]
+  },
+  {
+    "value": "Augmented Reality",
+    "synonyms": [
+      "Augmented Reality",
+      "Virtual Reality",
+      "VR",
+      "AR"
+    ]
+  },
+  {
+    "value": "Web development",
+    "synonyms": [
+      "Web development",
+      "Angular",
+      "React"
+    ]
+  }
+]

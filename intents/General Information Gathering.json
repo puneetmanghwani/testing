@@ -1,0 +1,51 @@
+{
+  "id": "eba8b0dd-9676-415b-aa61-d44fc503a914",
+  "name": "General Information Gathering",
+  "auto": true,
+  "contexts": [
+    "generalINFO",
+    "name_confirm"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "GeneralInformationGathering-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c8c53382-2081-483a-b098-4d60dc027acc",
+          "required": false,
+          "dataType": "@Course",
+          "name": "Course",
+          "value": "$Course",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "what course"
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Don\u0027t worry #name_confirm.name I\u0027m here to solve your every doubt"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "923d7a5e-0688-44b1-a28d-b3a80a07a166",
+  "parentId": "eba8b0dd-9676-415b-aa61-d44fc503a914",
+  "rootParentId": "eba8b0dd-9676-415b-aa61-d44fc503a914",
+  "name": "General Information Gathering - custom",
+  "auto": true,
+  "contexts": [
+    "GeneralInformationGathering-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GeneralInformationGathering.GeneralInformationGathering-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

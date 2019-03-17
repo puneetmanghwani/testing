@@ -1,0 +1,100 @@
+[
+  {
+    "id": "5ffaf42a-ae13-4a78-b11b-3bf7fb7e9d73",
+    "data": [
+      {
+        "text": "I\u0027m stuck in ",
+        "userDefined": false
+      },
+      {
+        "text": "machine learning",
+        "alias": "Course",
+        "meta": "@Course",
+        "userDefined": false
+      },
+      {
+        "text": " what will be best to do ??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f564f1c-eed0-476e-8299-ef80b770ecba",
+    "data": [
+      {
+        "text": "I want to know from where to start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9f393acf-7c80-4905-ac3a-81c1028ce25b",
+    "data": [
+      {
+        "text": "everything is looking well what to do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b1b7f063-0659-4da7-88a3-4b195f4f8121",
+    "data": [
+      {
+        "text": "what field companies are preferring",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3d6dd0d5-bb11-4dbf-9d25-28f445ed150c",
+    "data": [
+      {
+        "text": "what course is best to do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af48c41d-da13-4307-b516-10aadc04fd40",
+    "data": [
+      {
+        "text": "I have doubt what to do in technical field",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "414b19d8-0697-4841-b338-7340eca4fe7a",
+    "data": [
+      {
+        "text": "I have doubt what to do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c2b992ec-4688-4f2f-868b-fbedcfdb61eb",
+    "data": [
+      {
+        "text": "I\u0027m confused what to do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

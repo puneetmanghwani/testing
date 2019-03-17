@@ -1,0 +1,35 @@
+{
+  "id": "3d710e36-9f29-43c5-a03d-005ab3a56fb6",
+  "name": "Confirm name YES",
+  "auto": true,
+  "contexts": [
+    "name_confirm"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "generalINFO",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thanks #name_confirm.name . How can I assist you..??"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
